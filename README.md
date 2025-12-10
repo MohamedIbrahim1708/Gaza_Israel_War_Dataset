@@ -1,4 +1,5 @@
-Fake News Detection
+Fake News Detection:
+
 This task addresses the problem of misinformation detection in social media posts related to the Gaza–Israel context. 
 It comprises two subtasks designed to evaluate textual and multimodal detection capabilities.
 
